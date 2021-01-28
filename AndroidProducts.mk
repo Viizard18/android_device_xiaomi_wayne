@@ -23,9 +23,9 @@
 
 # inherit MI 6X aosp device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_wayne.mk
+    $(LOCAL_DIR)/dot_wayne.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_wayne-eng \
-    superior_wayne-userdebug \
-    superior_wayne-user
+    dot_wayne-eng \
+    dot_wayne-userdebug \
+    dot_wayne-user
